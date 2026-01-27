@@ -1,0 +1,7 @@
+id = "witch-hazel"
+name = "Witch Hazel"
+version = "0.0.1"
+schema_version = 1
+authors = ["gaymeowing"]
+description = "Witch Hazel is a dark, feminine color theme for various editors.\nCheck out https://witchhazel.thea.codes for more details.\n\n(Note: Currently doesn't include Hypercolor, as I don't personally use it so I haven't bothered porting it to Zed yet.)"
+repository = "https://github.com/gaymeowing/witchhazel-zed"
